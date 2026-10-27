@@ -1,0 +1,5 @@
+# Python >= 3.10
+flet[all]>=1.0.5
+edge-tts>=7.0.0
+pygame-ce>=2.5.0
+charset-normalizer>=3.0.0
